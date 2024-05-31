@@ -11,13 +11,13 @@
 
 ## Summary
 
-#### The Zomato Sales Analysis using MySQL aims to examine sales performance, customer behavior, and operational efficiency. Key aspects of the analysis include:
+####The Zomato Sales Analysis using MySQL aims to examine sales performance, customer behavior, and operational efficiency. Key aspects of the analysis include:
 
 ### 1) Sales Performance:
 
-####    Revenue Trends: Analyzing daily, weekly, and monthly sales revenue to identify patterns and peak periods.
-####    Top-selling Products: Identifying the most popular menu items contributing to the highest sales.
-####    Sales by Region: Comparing sales across different cities or regions to understand geographical preferences.
+*  Revenue Trends: Analyzing daily, weekly, and monthly sales revenue to identify patterns and peak periods.
+*   Top-selling Products: Identifying the most popular menu items contributing to the highest sales.
+*    Sales by Region: Comparing sales across different cities or regions to understand geographical preferences.
 
 
 ### 2) Customer Behavior:
